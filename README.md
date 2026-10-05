@@ -1,4 +1,4 @@
-# 🧹 SQL Data Cleaning: Handling Messy Datasets
+# SQL Data Cleaning: Handling Messy Datasets
 
 ## Overview
 This repository contains a practical exercise in data pre-processing and cleaning using SQL. It demonstrates the ability to identify and resolve common data quality issues such as inconsistent formatting, missing values, and logical errors in a raw dataset.
